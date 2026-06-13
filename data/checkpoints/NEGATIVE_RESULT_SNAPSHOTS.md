@@ -28,14 +28,16 @@ steps stored in each file.
 | `dit_large_hpwl_step308k.pt` | 308,000 | `84526261bd131c33a5cfad59497b76868b9814c4c0a3527c5dd8886d13472b51` |
 | `dit_large_hpwl_step356k.pt` | 356,000 | `c72ad8f73ca33f03f9bbfc8da68a582bc1abc7dd63971a827d4b099dd1063051` |
 
-`step308k` is the checkpoint that was saved as the training "final"; `step356k`
-is the latest snapshot taken before the run was stopped.
+`step356k` is the latest snapshot and the checkpoint reported in the paper as
+the final DiT-large-hpwl negative result (S100 = 1.598). `step308k` is an
+earlier snapshot that happened to be written with a `final` filename during
+the run; it is included for completeness.
 
 ## Loading
 
 ```python
 import torch
-ckpt = torch.load("dit_large_hpwl_step308k.pt", map_location="cpu")
+ckpt = torch.load("dit_large_hpwl_step356k.pt", map_location="cpu")  # reported final
 model_state = ckpt["model_state"]
 print(ckpt["step"], ckpt["config"])
 ```
