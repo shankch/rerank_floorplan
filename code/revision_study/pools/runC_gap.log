@@ -1,0 +1,112 @@
+Loading solver: C:\RESEARCH_PROJECTS\auto_research_1\floorset_research\solver.py
+Loading validation dataset...
+Running on 100 cases: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99]
+  case   0 n= 21 OK                   hpwl_gap=+0.135 area_gap=+0.219 v_rel=0.308 rt= 34.37s cost=6.291
+  case   1 n= 22 OK                   hpwl_gap=+0.067 area_gap=+0.051 v_rel=0.379 rt= 31.60s cost=6.369
+  case   2 n= 23 OK                   hpwl_gap=+0.081 area_gap=+0.162 v_rel=0.310 rt= 33.97s cost=6.009
+  case   3 n= 24 OK                   hpwl_gap=+0.451 area_gap=+0.258 v_rel=0.179 rt= 34.32s cost=5.592
+  case   4 n= 25 OK                   hpwl_gap=+0.872 area_gap=+0.183 v_rel=0.188 rt= 54.11s cost=7.359
+  case   5 n= 26 OK                   hpwl_gap=+0.843 area_gap=+0.385 v_rel=0.222 rt= 50.35s cost=8.157
+  case   6 n= 27 OK                   hpwl_gap=+0.459 area_gap=+0.252 v_rel=0.323 rt= 49.21s cost=8.315
+  case   7 n= 28 OK                   hpwl_gap=+0.924 area_gap=+0.606 v_rel=0.167 rt= 53.56s cost=8.132
+  case   8 n= 29 OK                   hpwl_gap=+0.429 area_gap=+0.184 v_rel=0.273 rt= 58.28s cost=7.633
+  case   9 n= 30 OK                   hpwl_gap=+0.472 area_gap=+0.197 v_rel=0.188 rt= 51.52s cost=6.337
+  case  10 n= 31 OK                   hpwl_gap=+0.667 area_gap=+0.360 v_rel=0.074 rt= 55.97s cost=5.871
+  case  11 n= 32 OK                   hpwl_gap=+0.870 area_gap=+0.126 v_rel=0.161 rt= 36.22s cost=6.073
+  case  12 n= 33 INF(ov=4,av=0,dim=0) hpwl_gap=+0.619 area_gap=+0.168 v_rel=0.333 rt= 55.47s cost=10.000
+  case  13 n= 34 OK                   hpwl_gap=+0.417 area_gap=+0.370 v_rel=0.182 rt= 44.67s cost=6.267
+  case  14 n= 35 OK                   hpwl_gap=+0.540 area_gap=+0.427 v_rel=0.344 rt= 51.44s cost=9.621
+  case  15 n= 36 OK                   hpwl_gap=+0.852 area_gap=+0.415 v_rel=0.056 rt= 57.38s cost=6.153
+  case  16 n= 37 OK                   hpwl_gap=+0.536 area_gap=+0.391 v_rel=0.275 rt= 53.34s cost=8.364
+  case  17 n= 38 OK                   hpwl_gap=+0.626 area_gap=+0.335 v_rel=0.108 rt= 50.18s cost=5.951
+  case  18 n= 39 OK                   hpwl_gap=+0.985 area_gap=+0.225 v_rel=0.118 rt= 69.39s cost=7.245
+  case  19 n= 40 OK                   hpwl_gap=+0.546 area_gap=+0.288 v_rel=0.263 rt= 51.40s cost=7.821
+  case  20 n= 41 OK                   hpwl_gap=+0.044 area_gap=+0.164 v_rel=0.211 rt= 51.07s cost=5.474
+  case  21 n= 42 OK                   hpwl_gap=+0.802 area_gap=+0.543 v_rel=0.268 rt= 63.30s cost=9.926
+  case  22 n= 43 OK                   hpwl_gap=+0.737 area_gap=+0.240 v_rel=0.163 rt= 42.88s cost=6.364
+  case  23 n= 44 OK                   hpwl_gap=+0.919 area_gap=+0.641 v_rel=0.083 rt= 68.05s cost=7.459
+  case  24 n= 45 OK                   hpwl_gap=+0.653 area_gap=+0.205 v_rel=0.152 rt= 67.91s cost=6.859
+  case  25 n= 46 OK                   hpwl_gap=+1.078 area_gap=+0.444 v_rel=0.275 rt= 71.91s cost=11.006
+  case  26 n= 47 OK                   hpwl_gap=+0.730 area_gap=+0.206 v_rel=0.095 rt= 56.25s cost=5.951
+  case  27 n= 48 OK                   hpwl_gap=+0.463 area_gap=+0.181 v_rel=0.283 rt= 51.86s cost=7.606
+  case  28 n= 49 OK                   hpwl_gap=+0.767 area_gap=+0.351 v_rel=0.049 rt= 67.34s cost=6.078
+  case  29 n= 50 OK                   hpwl_gap=+0.472 area_gap=+0.200 v_rel=0.372 rt= 69.28s cost=10.029
+  case  30 n= 51 OK                   hpwl_gap=+0.475 area_gap=+0.292 v_rel=0.140 rt= 73.33s cost=6.633
+  case  31 n= 52 OK                   hpwl_gap=+0.720 area_gap=+0.470 v_rel=0.224 rt= 90.38s cost=9.652
+  case  32 n= 53 OK                   hpwl_gap=+0.634 area_gap=+0.480 v_rel=0.149 rt= 66.69s cost=7.393
+  case  33 n= 54 OK                   hpwl_gap=+1.260 area_gap=+0.544 v_rel=0.044 rt= 65.92s cost=7.303
+  case  34 n= 55 OK                   hpwl_gap=+0.755 area_gap=+0.476 v_rel=0.200 rt= 55.95s cost=8.062
+  case  35 n= 56 OK                   hpwl_gap=+1.185 area_gap=+0.328 v_rel=0.043 rt= 73.19s cost=6.933
+  case  36 n= 57 OK                   hpwl_gap=+0.990 area_gap=+0.452 v_rel=0.065 rt= 76.63s cost=7.206
+  case  37 n= 58 OK                   hpwl_gap=+0.785 area_gap=+0.282 v_rel=0.085 rt= 67.44s cost=6.433
+  case  38 n= 59 OK                   hpwl_gap=+1.574 area_gap=+0.880 v_rel=0.218 rt= 79.96s cost=12.827
+  case  39 n= 60 OK                   hpwl_gap=+0.779 area_gap=+0.355 v_rel=0.045 rt= 68.37s cost=6.095
+  case  40 n= 61 OK                   hpwl_gap=+1.000 area_gap=+0.337 v_rel=0.184 rt= 52.17s cost=7.889
+  case  41 n= 62 OK                   hpwl_gap=+1.116 area_gap=+0.364 v_rel=0.078 rt= 46.48s cost=6.440
+  case  42 n= 63 OK                   hpwl_gap=+0.871 area_gap=+0.257 v_rel=0.233 rt= 57.02s cost=8.375
+  case  43 n= 64 OK                   hpwl_gap=+1.550 area_gap=+0.772 v_rel=0.188 rt= 55.80s cost=10.506
+  case  44 n= 65 OK                   hpwl_gap=+0.978 area_gap=+0.687 v_rel=0.212 rt= 58.51s cost=9.484
+  case  45 n= 66 OK                   hpwl_gap=+0.923 area_gap=+0.593 v_rel=0.145 rt= 58.43s cost=7.967
+  case  46 n= 67 OK                   hpwl_gap=+1.366 area_gap=+0.596 v_rel=0.164 rt= 60.85s cost=9.425
+  case  47 n= 68 OK                   hpwl_gap=+0.715 area_gap=+0.284 v_rel=0.077 rt= 63.13s cost=6.065
+  case  48 n= 69 OK                   hpwl_gap=+0.738 area_gap=+0.480 v_rel=0.034 rt= 65.36s cost=6.034
+  case  49 n= 70 OK                   hpwl_gap=+1.200 area_gap=+0.955 v_rel=0.220 rt= 64.41s cost=11.263
+  case  50 n= 71 OK                   hpwl_gap=+0.758 area_gap=+0.251 v_rel=0.070 rt= 68.52s cost=6.152
+  case  51 n= 72 OK                   hpwl_gap=+1.989 area_gap=+0.870 v_rel=0.150 rt= 66.12s cost=11.532
+  case  52 n= 73 OK                   hpwl_gap=+1.117 area_gap=+0.396 v_rel=0.123 rt= 67.76s cost=7.953
+  case  53 n= 74 OK                   hpwl_gap=+1.433 area_gap=+1.022 v_rel=0.109 rt= 69.84s cost=9.903
+  case  54 n= 75 OK                   hpwl_gap=+1.425 area_gap=+0.729 v_rel=0.172 rt= 40.21s cost=8.870
+  case  55 n= 76 OK                   hpwl_gap=+1.239 area_gap=+0.578 v_rel=0.143 rt= 42.14s cost=7.800
+  case  56 n= 77 OK                   hpwl_gap=+0.657 area_gap=+0.272 v_rel=0.211 rt= 43.06s cost=6.898
+  case  57 n= 78 OK                   hpwl_gap=+0.947 area_gap=+1.014 v_rel=0.125 rt= 44.18s cost=7.924
+  case  58 n= 79 OK                   hpwl_gap=+0.573 area_gap=+0.198 v_rel=0.093 rt= 45.31s cost=5.236
+  case  59 n= 80 OK                   hpwl_gap=+0.768 area_gap=+0.769 v_rel=0.242 rt= 45.04s cost=8.990
+  case  60 n= 81 OK                   hpwl_gap=+1.004 area_gap=+0.326 v_rel=0.039 rt= 45.52s cost=5.663
+  case  61 n= 82 OK                   hpwl_gap=+1.713 area_gap=+0.920 v_rel=0.123 rt= 44.37s cost=9.245
+  case  62 n= 83 OK                   hpwl_gap=+1.035 area_gap=+0.421 v_rel=0.149 rt= 45.81s cost=7.336
+  case  63 n= 84 OK                   hpwl_gap=+1.292 area_gap=+0.812 v_rel=0.175 rt= 46.40s cost=9.202
+  case  64 n= 85 OK                   hpwl_gap=+1.332 area_gap=+0.855 v_rel=0.156 rt= 47.56s cost=9.116
+  case  65 n= 86 OK                   hpwl_gap=+0.951 area_gap=+0.486 v_rel=0.119 rt= 48.18s cost=6.978
+  case  66 n= 87 OK                   hpwl_gap=+1.027 area_gap=+0.492 v_rel=0.141 rt= 51.12s cost=7.589
+  case  67 n= 88 OK                   hpwl_gap=+1.238 area_gap=+0.296 v_rel=0.062 rt= 51.69s cost=6.539
+  case  68 n= 89 OK                   hpwl_gap=+1.542 area_gap=+0.833 v_rel=0.175 rt= 50.76s cost=10.076
+  case  69 n= 90 OK                   hpwl_gap=+1.275 area_gap=+0.659 v_rel=0.197 rt= 51.16s cost=9.500
+  case  70 n= 91 OK                   hpwl_gap=+2.199 area_gap=+1.022 v_rel=0.190 rt=  6.30s cost=6.631
+  case  71 n= 92 OK                   hpwl_gap=+0.852 area_gap=+0.125 v_rel=0.069 rt=  6.10s cost=2.940
+  case  72 n= 93 OK                   hpwl_gap=+0.743 area_gap=+0.263 v_rel=0.149 rt=  6.10s cost=3.484
+  case  73 n= 94 OK                   hpwl_gap=+0.602 area_gap=+0.127 v_rel=0.030 rt=  6.59s cost=2.552
+  case  74 n= 95 OK                   hpwl_gap=+1.130 area_gap=+0.502 v_rel=0.077 rt=  6.15s cost=3.653
+  case  75 n= 96 OK                   hpwl_gap=+1.260 area_gap=+0.317 v_rel=0.080 rt=  7.29s cost=3.809
+  case  76 n= 97 OK                   hpwl_gap=+1.453 area_gap=+0.876 v_rel=0.156 rt=  6.27s cost=5.128
+  case  77 n= 98 OK                   hpwl_gap=+0.702 area_gap=+0.434 v_rel=0.203 rt=  7.15s cost=4.247
+  case  78 n= 99 OK                   hpwl_gap=+0.597 area_gap=+0.182 v_rel=0.100 rt=  7.00s cost=3.043
+  case  79 n=100 OK                   hpwl_gap=+1.337 area_gap=+0.780 v_rel=0.139 rt=  7.49s cost=4.970
+  case  80 n=101 OK                   hpwl_gap=+1.003 area_gap=+0.307 v_rel=0.086 rt=  6.83s cost=3.500
+  case  81 n=102 OK                   hpwl_gap=+0.729 area_gap=+0.152 v_rel=0.030 rt=  6.52s cost=2.685
+  case  82 n=103 OK                   hpwl_gap=+0.645 area_gap=+0.222 v_rel=0.197 rt=  6.44s cost=3.720
+  case  83 n=104 OK                   hpwl_gap=+1.173 area_gap=+0.509 v_rel=0.074 rt=  6.33s cost=3.710
+  case  84 n=105 OK                   hpwl_gap=+0.838 area_gap=+0.243 v_rel=0.052 rt=  6.39s cost=2.982
+  case  85 n=106 OK                   hpwl_gap=+0.758 area_gap=+0.302 v_rel=0.081 rt=  7.14s cost=3.244
+  case  86 n=107 OK                   hpwl_gap=+0.631 area_gap=+0.429 v_rel=0.116 rt=  6.73s cost=3.418
+  case  87 n=108 OK                   hpwl_gap=+0.476 area_gap=+0.297 v_rel=0.100 rt=  7.05s cost=3.043
+  case  88 n=109 OK                   hpwl_gap=+1.501 area_gap=+1.040 v_rel=0.190 rt=  6.68s cost=5.875
+  case  89 n=110 OK                   hpwl_gap=+1.539 area_gap=+0.955 v_rel=0.188 rt=  7.43s cost=5.977
+  case  90 n=111 OK                   hpwl_gap=+1.431 area_gap=+0.638 v_rel=0.105 rt=  6.52s cost=4.403
+  case  91 n=112 OK                   hpwl_gap=+0.767 area_gap=+0.087 v_rel=0.057 rt=  6.93s cost=2.860
+  case  92 n=113 OK                   hpwl_gap=+1.100 area_gap=+0.507 v_rel=0.081 rt=  6.70s cost=3.752
+  case  93 n=114 OK                   hpwl_gap=+0.961 area_gap=+0.498 v_rel=0.171 rt=  6.84s cost=4.335
+  case  94 n=115 OK                   hpwl_gap=+0.793 area_gap=+0.286 v_rel=0.105 rt=  7.08s cost=3.415
+  case  95 n=116 OK                   hpwl_gap=+0.664 area_gap=+0.487 v_rel=0.037 rt=  6.66s cost=2.994
+  case  96 n=117 OK                   hpwl_gap=+0.955 area_gap=+0.321 v_rel=0.036 rt=  6.64s cost=3.107
+  case  97 n=118 OK                   hpwl_gap=+1.571 area_gap=+0.827 v_rel=0.127 rt=  7.32s cost=5.148
+  case  98 n=119 OK                   hpwl_gap=+0.852 area_gap=+0.255 v_rel=0.164 rt=  7.25s cost=3.909
+  case  99 n=120 OK                   hpwl_gap=+0.809 area_gap=+0.395 v_rel=0.072 rt=  6.89s cost=3.303
+============================================================
+FULL_SCORE:    1.40228
+FEASIBLE:      99/100
+MEAN_RT:       41.042
+MEAN_HPWL_GAP: +0.9135
+MEAN_AREA_GAP: +0.4452
+MEAN_V_REL:    0.1500
+EVAL_WALL:     4112.92s
+============================================================

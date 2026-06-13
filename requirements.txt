@@ -1,0 +1,6 @@
+-r project_code/gap_aware_reranking_floorplanning/requirements.txt
+matplotlib>=3.7
+
+# Revision-study analysis dependencies (code/revision_study/)
+pandas>=1.3
+scipy>=1.10

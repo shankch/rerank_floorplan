@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+
+# OS and editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*~
+
+# Local generated outputs and external dataset clones
+/results/
+/FloorSet/
+
+# Revision study: keep the recorded run logs (needed by analyze_pools.py),
+# ignore its local results fallback
+!code/revision_study/pools/*.log
+code/revision_study/results/

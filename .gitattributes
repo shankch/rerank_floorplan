@@ -1,0 +1,6 @@
+# Store released checkpoints via Git LFS.
+data/checkpoints/*.pt filter=lfs diff=lfs merge=lfs -text
+data/checkpoints/*.pth filter=lfs diff=lfs merge=lfs -text
+
+# Recorded candidate pools (revision study) via Git LFS.
+code/revision_study/pools/*.jsonl.gz filter=lfs diff=lfs merge=lfs -text
