@@ -1,4 +1,4 @@
-# Code Ocean Capsule Layout
+# Gap-aware candidate reranking for FloorSet floorplanning
 
 This folder is prepared as a Code Ocean style reproducibility capsule
 for the floorplanning paper.
